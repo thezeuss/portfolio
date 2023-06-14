@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thezeuss&label=Profile%20views&color=0e75b6&style=flat" alt="thezeuss" /> </p>
 
-- 🔭 I’m currently working on [SOIDO, The Cattle Commerce](https://github.com/thezeuss/Soido)
+- 🔭 I’m currently working on Natours (https://github.com/thezeuss/Natours)
 
 - 🌱 I’m currently learning **ReactJS, AWS**
 
